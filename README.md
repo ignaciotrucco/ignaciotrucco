@@ -33,3 +33,14 @@ A través de GitHub o mediante los enlaces de contacto de mi portafolio.
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C#, Python, Bootstrap, .NET Framework, Django, SQL Server...
+
+## 🎓 Certificaciones
+
+### Técnico en Desarrollo de Software  
+[Descargar certificado (PDF)](Titulo.pdf)
+
+---
+
+### Certificado de Curso de Python  
+
+[![Certificado Python](certificado-python.png)](Titulo.pdf)
