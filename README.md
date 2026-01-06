@@ -34,3 +34,6 @@ A través de GitHub o mediante los enlaces de contacto de mi portafolio.
 ## 🛠 Skills
 Javascript, HTML, CSS, C#, Python, Bootstrap, .NET Framework, Django, SQL Server...
 
+## 🎓 Certificado
+
+[![Certificado Coderhouse](https://img.shields.io/badge/Certificado‑Coderhouse‑blue?style=for‑the‑badge&logo=coderhouse&logoColor=white)](https://pub.coderhouse.com/certificates/ca09a7b1-746f-4837-be88-babb0a0559c5?v=1)
