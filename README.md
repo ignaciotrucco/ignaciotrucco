@@ -1,4 +1,3 @@
-<img width="1881" height="930" alt="image" src="https://github.com/user-attachments/assets/25560b06-0c39-4604-bd47-f02fa9eb0d4e" />
 # Hola, me llamo Ignacio Trucco! 👋
 
 
